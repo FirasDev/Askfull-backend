@@ -1,0 +1,23 @@
+{
+  "name": "node_login",
+  "version": "1.0.0",
+  "description": "WebService Login Using NodeJs for Android App (AskFull)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mars",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "mssql": "^6.0.1",
+    "mysql": "^2.17.1",
+    "nodemailer": "^6.4.2",
+    "socket.io": "^2.3.0",
+    "uuid": "^3.3.3"
+  }
+}
